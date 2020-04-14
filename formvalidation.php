@@ -7,6 +7,7 @@
 </style>
 </head>
 <body>
+
 <?php
 $error_nama = "";
 $error_email = "";
